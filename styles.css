@@ -1,1 +1,40 @@
-h1{color: blue;}
+.title {
+
+  font-family: "Times New Roman";
+  font-weight: 700;
+  font-size: 35px;
+  background-color: #C4C4C4;
+  color: #005677;
+  text-align: center;
+  padding: 10px;
+  letter-spacing: 8px;
+}
+.subtitle{
+background-color: #C4C4C4;
+
+font-family: 'Times New Roman';
+font-weight: 700;
+font-size: 20px;
+
+color: #005677;
+}
+.logobatman{
+    display: block;
+    margin: auto;
+}
+span{
+    font-weight: bold;
+    font-style: italic;
+}
+footer{
+    display: flex ;
+    background-color: #005677;
+    text-align: center;
+    color: white;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+dd{
+    margin-left: 50px;
+}
